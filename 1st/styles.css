@@ -1,0 +1,30 @@
+body{
+  background-color: Beige;
+}
+
+.header{
+  text-align: center;
+}
+
+.subheader {
+  color: DarkOrchid;
+}
+
+th,td {
+  border-top: 1px solid darksalmon;
+}
+table {
+  border: 3px solid darksalmon;
+  font-family: Helvetica;
+  width: 700px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: darksalmon;
+}
+
+.codeElement{
+  font-family: monospace;
+  background-color: LightGray;
+}
